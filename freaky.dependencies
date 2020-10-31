@@ -11,7 +11,7 @@
     },
     {
         "repository":   "android_kernel_xiaomi_sdm710",
-        "target_path":  "kernel/xiaomi/pyxis",
+        "target_path":  "kernel/xiaomi/sdm710",
         "revision":     "still_alive"
     }
 ]

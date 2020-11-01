@@ -6,7 +6,7 @@
 
 # Inherit some common freaky stuff.
 $(call inherit-product, vendor/freaky/config/common_full_phone.mk)
-CUSTOM_BUILD_TYPE := Official
+CUSTOM_BUILD_TYPE := OFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
 IS_PHONE := true
 TARGET_GAPPS_ARCH := arm64
